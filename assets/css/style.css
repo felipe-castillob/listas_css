@@ -1,0 +1,15 @@
+.title__pink{
+    color: pink;
+}
+
+#element__blue{
+    color: blue;
+}
+
+#parrafo__green{
+    color: green;
+}
+
+ul{
+    list-style-image: url(../imagenes/mano-25px.png);
+}
